@@ -34,6 +34,14 @@ header{
 
 /*create logo Booleaner/*/
 
+/*titles*/
+
+.pricipal-title{
+    margin-bottom: 5px;
+}
+
+/*titles/*/
+
 /*subtitle*/
 
 .subtitle{
@@ -51,6 +59,21 @@ header{
 .date{
     font-size: 18px;
 }
+
+/*subtitle/*/
+
+/*pricipal image*/
+
+.tim-image{
+    margin-top: 30px;
+}
+
+.decription-image{
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+/*pricipal image/*/
 
 
 
