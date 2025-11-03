@@ -118,6 +118,33 @@ header{
 
 /*table/*/
 
+/*footer*/
+
+footer{
+    margin-top: 80px;
+}
+
+.first-image-footer{
+    background-image: url(img/monitor.jpg);
+    background-repeat: no-repeat;
+    height: 208px;
+    color: white;
+    text-align: justify;
+    padding-left: 15px;
+    padding-top: 15px;
+}
+
+.second-image-footer{
+    background-image:url(img/graph.jpg);
+    background-repeat: no-repeat;
+    height: 208px;
+    color: white;
+    padding-left: 15px;
+    padding-top: 15px;
+}
+
+/*footer/*/
+
 
 
 
