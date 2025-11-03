@@ -93,6 +93,34 @@ header{
     padding-left: 6px;
 }
 
+/*ul list/*/
+
+/*table*/
+
+#table{
+    border-collapse: collapse;
+    width: 100%;
+    text-align: left;
+    margin-top: 20px;
+}
+.thead{
+    background-color: rgba(0, 166, 255, 0.862);
+    color: white;    
+}
+
+.azure{
+    background-color: rgba(0, 166, 255, 0.288);
+}
+
+.final-cell{
+    width: 52%;
+}
+
+/*table/*/
+
+
+
+
 
 
 
