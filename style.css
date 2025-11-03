@@ -1,6 +1,15 @@
+/*general stle page*/
+
 body{
     margin: 0;
 }
+
+#contenitore{
+    max-width: 1020px;
+    margin: auto;
+}
+
+/*general stle page/*/
 
 /*create image backround*/
 
@@ -24,6 +33,28 @@ header{
 }
 
 /*create logo Booleaner/*/
+
+/*subtitle*/
+
+.subtitle{
+    font-size: 23px;
+}
+
+.text-gray{
+    color: rgba(0, 0, 0, 0.589);
+}
+
+.text-blue{
+    color: rgb(0, 200, 255);
+}
+
+.date{
+    font-size: 18px;
+}
+
+
+
+
 
 
 
