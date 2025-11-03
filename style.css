@@ -75,6 +75,16 @@ header{
 
 /*pricipal image/*/
 
+/*general text*/
+
+.general-text{
+    font-size: 20px;
+}
+
+.text-yellow{
+    background-color: yellow;
+}
+
 
 
 
